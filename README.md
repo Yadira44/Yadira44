@@ -1,7 +1,7 @@
 - Hi, I’m @Yadira44
-- I’m interested in baseball analytics!
-- I am currently majoring in Data Science
-- I also have a love for hockey !! 
+- I am currently majoring in Electrical Engineering
+- Most of my projects are currently data analytics, which were worked on when I majored in Data Science.
+- More EE projects coming soon!
 
 <!---
 Yadira44/Yadira44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
