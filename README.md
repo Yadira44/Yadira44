@@ -1,6 +1,6 @@
 - Hi, I’m @Yadira44
 - I am currently majoring in Electrical Engineering
-- Most of my projects are currently data analytics, which were worked on when I majored in Data Science.
+- Most of my projects are currently data analytics based, which were worked on when I majored in Data Science.
 - More EE projects coming soon!
 
 <!---
